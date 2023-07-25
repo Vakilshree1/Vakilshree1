@@ -5,7 +5,7 @@
 
  • 🔭 I’m currently working on **Java,MySQL**
 
- • 🌱 I’m currently learning **New Things **
+ • 🌱 I’m currently learning **New Things**
 
   • 💬 Ask me about **Java • Data Analytics •**
 
