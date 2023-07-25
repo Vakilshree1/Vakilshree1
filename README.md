@@ -1,4 +1,4 @@
-![MasterHead](https://www.lambdatest.com/resources/images/news24.gif 
+ ![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)
 <h1 align="center">Hi 👋, I'm Vakil shripad</h1>
 <h3 align="center">I'm a student pursuing B.Tech in Computer Engineering. Some technologies I enjoy working with Java, Python, Data Analytics,</h3>
 <img align="right" alt="coding" Width="400" src=https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?w=2000
